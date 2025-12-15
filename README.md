@@ -26,5 +26,3 @@ Here are a few examples of what you can do with the Financial Reporting & Analys
 - Create scenario analysis models to evaluate the impact of different business decisions on financial performance.
 - Perform comparative analysis across different time periods or business units.
 
-Happy analyzing! 📊💼
-
